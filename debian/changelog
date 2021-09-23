@@ -1,3 +1,9 @@
+modemmanager (1.16.6-2pop0) impish; urgency=medium
+
+  * Pop!_OS patches
+
+ -- Jeremy Soller <jeremy@system76.com>  Thu, 23 Sep 2021 16:55:17 -0600
+
 modemmanager (1.16.6-2) experimental; urgency=medium
 
   * debian/control: include python build-depends for tests
